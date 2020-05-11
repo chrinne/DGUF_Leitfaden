@@ -45,6 +45,10 @@ _Clemens: Ein Gliederungsversuch, um die breite Gedankenwelt unten zu strukturie
 - _## Technik (Entwicklerperspektive)_
 - _### Art und Qualität der Implementierung_
 - _### Anschluss- und Erweiterungsfähigkeit_
+- _## wissenschaftliche oder methodische Umsetzung
+- _### theoretische, methodische oder wiss. Voraussetzungen
+- _### deren Umsetzung (Modelle, Rechenprozesse etc.)
+- _### resultierendes Aussageniveau
 - _## Rechtliche Fragen_
 - _### Datenschutz, Privacy, Datensparsamkeit_
 - _### Lizenzierung_
